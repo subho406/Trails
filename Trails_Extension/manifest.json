@@ -1,0 +1,13 @@
+{
+  "name":"Trails",
+  "version":"1.0",
+  "description":"Research Flow Aggregator",
+  "manifest_version":2,
+  "browser_action":{
+    "default_icon":"trails.png",
+    "default_popup":"popup.html"
+  },
+  "permissions": [
+  	"history"
+  ]
+}
