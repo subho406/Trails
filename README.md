@@ -1,9 +1,9 @@
 
-#Trails
+# Trails
 
 A tool to save, categorize and share entire web sessions with a visual map of the surfing flow.
 
-#Set Up Instructions
+# Set Up Instructions
 
 1. Clone the Directory 
 2. Put the Trails_Server folder into your Server local host folder 
@@ -13,7 +13,7 @@ A tool to save, categorize and share entire web sessions with a visual map of th
 
 1) Extension
   
-  1.1. Save single link 
+  1.1) Save single link 
   
   1.2) Save Session
   
@@ -41,7 +41,7 @@ A tool to save, categorize and share entire web sessions with a visual map of th
 
 3) Trails Engine
 
-  3.1) DatabasE
+  3.1) Database
 
     3.1.1) Link Address
 
